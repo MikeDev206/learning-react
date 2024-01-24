@@ -10,25 +10,25 @@ export default function App() {
 				formatUserName={formatUserName}
 				isFollowing
 				userName="whoismrrobot"
-				name="Mr Robot"
+				children="Mr Robot"
 			/>
 			<TwitterFollowCard
 				formatUserName={formatUserName}
 				isFollowing
 				userName="ironman_es"
-				name="Tony Stark"
+				children="Tony Stark"
 			/>
 			<TwitterFollowCard
 				formatUserName={formatUserName}
 				isFollowing
 				userName="midudev"
-				name="Miguel Ángel Durán"
+				children="Miguel Ángel Durán"
 			/>
 			<TwitterFollowCard
 				formatUserName={formatUserName}
 				isFollowing
 				userName="elonmusk"
-				name="Elon Musk"
+				children="Elon Musk"
 			/>
 		</section>
 	);
